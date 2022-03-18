@@ -1,0 +1,2 @@
+# docs
+Jeygame documentation
